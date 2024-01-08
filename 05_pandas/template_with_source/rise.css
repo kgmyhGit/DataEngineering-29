@@ -1,0 +1,11 @@
+.rise-enabled .rendered_html table {
+  font-size: 100%;
+}
+
+.cell text_cell rendered selected {
+  font-size: 120%
+}
+
+.CodeMirror-line {
+  font-size:130%   
+}
